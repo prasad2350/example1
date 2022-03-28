@@ -5,4 +5,5 @@ public class Person {
     private String registerno;
     private String address;
     private String fatherName;
+    private String motherName;
 }
