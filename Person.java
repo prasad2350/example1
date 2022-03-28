@@ -4,4 +4,5 @@ public class Person {
     private float salary;
     private String registerno;
     private String address;
+    private String fatherName;
 }
